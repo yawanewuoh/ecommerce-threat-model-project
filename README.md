@@ -18,13 +18,12 @@ This repo is scoped to the threat modeling phase only — architecture design an
 
 ## Contents
 
-- [`dfd.drawio`](./dfd.drawio) — editable source diagram
-- [`dfd.png`](./dfd.png) — exported diagram (see below)
+- [`data flow diagram`](./data-flow-diagram.png) — exported diagram (see below)
 - [`threat-model.md`](./threat-model.md) — full write-up
 
 ## Diagram
 
-![Data flow diagram with trust boundaries](./Data Flow Diagram.drawio.png)
+![Data flow diagram with trust boundaries](./data-flow-diagram.png)
 
 ## Trust Boundaries Covered
 
