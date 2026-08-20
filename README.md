@@ -24,7 +24,7 @@ This repo is scoped to the threat modeling phase only — architecture design an
 
 ## Diagram
 
-![Data flow diagram with trust boundaries](./dfd.png)
+![Data flow diagram with trust boundaries](./Data Flow Diagram.drawio.png)
 
 ## Trust Boundaries Covered
 
