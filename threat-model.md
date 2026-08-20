@@ -4,7 +4,7 @@
 
 The application is a Django e-commerce platform deployed on a single AWS EC2 instance behind Nginx. Supabase provides managed Postgres and authentication. Cloudflare R2 stores product images and uploaded content. A secrets manager holds database credentials and API keys. A third-party payment gateway (Stripe/Paystack) handles checkout and payment processing.
 
-![Data flow diagram with trust boundaries](./dfd.png)
+![Data flow diagram with trust boundaries](./data-flow-diagram.png)
 
 Five trust boundaries were identified, each representing a crossing between zones of differing trust.
 
